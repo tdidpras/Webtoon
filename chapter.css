@@ -3,7 +3,7 @@
 }
 
 .bg {
-  width: 100%;
+  width: 100wh;
   display: grid;
   align-content: center;
   justify-content: center;
