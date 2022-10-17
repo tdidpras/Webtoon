@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+.bg {
+  background-image: url(https://kmitlthailand-my.sharepoint.com/:i:/g/personal/62010315_kmitl_ac_th/EUnUfdbFnkpOvZpdOUc-PkMBXFByYNIlqFQk2HR6RQMW4w?e=8keZh7);
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  font-size: 50px;
+}
